@@ -2,9 +2,10 @@
 ConvChrome use a well-known deep learning technique called Convolution Neural Network (CNN)  to predict gene expression from histone modification to learn how Combinatorial Histone Modifications Effects Gene Regulation. Using many variation convolutional models to find the best model, Coordination among CNN layers  by Using many convolutional layers stacked on top of each other helps in the learning and extraction of useful features aims to recognize more complex patterns, also can give more abstract and in-depth information from a CNNand to reduce computational time.
 
 ConvChrome used datase from Roadmap Epigenomics Mapping Consortium (REMC) database from the Roadmap Epigenomics Projects but used after preprocessing from another previous work mentioned in the paper, 
-
 # Dataset 
 The dataset can be downloaded from this [repository](https://github.com/ly-zhu/CRNN-gene-expression-with-histone-modifications)
+
+
 __variation convolutional models__
 * CNN1D
 * CNN1D_att
