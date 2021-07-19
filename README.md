@@ -3,6 +3,8 @@ ConvChrome use a well-known deep learning technique called Convolution Neural Ne
 
 ConvChrome used datase from Roadmap Epigenomics Mapping Consortium (REMC) database from the Roadmap Epigenomics Projects but used after preprocessing from another previous work mentioned in the paper, 
 
+# Dataset 
+The dataset can be downloaded from this [repository](https://github.com/ly-zhu/CRNN-gene-expression-with-histone-modifications)
 __variation convolutional models__
 * CNN1D
 * CNN1D_att
