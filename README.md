@@ -23,3 +23,4 @@ __architecture of CNN1D__
 you can try see [ConvChrom](https://github.com/RaniaHamdy/ConvChrom-GE-prediction-from-HM/blob/master/CNN_Model_Variations.ipynb) architecture  
 
 # Citation
+Hamdy Rania *, Maghraby A. Fahima*, Omar M.K. Yasser, ConvChrome: Predicting Gene Expression Based on Histone Modifications Using Deep Learning Techniques, Current Bioinformatics 2022; 17(3) . https://dx.doi.org/10.2174/1574893616666211214110625
