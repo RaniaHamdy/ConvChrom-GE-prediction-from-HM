@@ -1,5 +1,5 @@
 # Reference Paper: [ConvChrome: Predicting Gene Expression Based on Histone Modifications Using Deep Learning Techniques](https://www.eurekaselect.com/article/119403)
-# ConvChrome:predicting gene expression based on histone modifications using deep learning techniques 
+
 ConvChrome use a well-known deep learning technique called Convolution Neural Network (CNN)  to predict gene expression from histone modification to learn how Combinatorial Histone Modifications Effects Gene Regulation. Using many variation convolutional models to find the best model, Coordination among CNN layers  by Using many convolutional layers stacked on top of each other helps in the learning and extraction of useful features aims to recognize more complex patterns, also can give more abstract and in-depth information from a CNNand to reduce computational time.
 
 # Dataset 
