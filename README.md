@@ -24,4 +24,4 @@ you can try see [ConvChrom](https://github.com/RaniaHamdy/ConvChrom-GE-predictio
 
 # Citation
 Hamdy Rania *, Maghraby A. Fahima*, Omar M.K. Yasser, ConvChrome: Predicting Gene Expression Based on Histone Modifications Using Deep Learning Techniques, Current Bioinformatics 2022; 17(3). https://dx.doi.org/10.2174/1574893616666211214110625
-![image](https://user-images.githubusercontent.com/37738411/220832862-6459fbc7-7c78-425f-b160-d220672b5bfe.png)
+![image](https://user-images.githubusercontent.com/37738411/220832999-07cb188d-d01a-4ee4-8859-23cd33275cde.png)
